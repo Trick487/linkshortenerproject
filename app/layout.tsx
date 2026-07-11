@@ -38,7 +38,7 @@ export default function RootLayout({
               <Button variant="outline" asChild>
                 <SignInButton mode="modal" />
               </Button>
-              <Button variant="outline" asChild>
+              <Button variant="default" asChild>
                 <SignUpButton mode="modal" />
               </Button>
             </Show>
