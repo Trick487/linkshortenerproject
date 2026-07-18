@@ -1,3 +1,8 @@
+---
+description: Read this file before implementing authentication or modifying authentication in this project. 
+---
+
+
 # Authentication Standards
 
 Authentication in this project is handled exclusively by Clerk. Do not introduce any other auth method, provider, or custom session system.

@@ -1,3 +1,7 @@
+---
+description: Read this file to understand the coding standards for this project.
+---
+
 # Coding Standards
 
 These rules apply to all changes in this project.

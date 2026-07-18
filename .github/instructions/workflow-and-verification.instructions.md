@@ -1,3 +1,7 @@
+---
+description: Read this file to understand the workflow and verification process for this project.
+---
+
 # Workflow and Verification
 
 Follow this process when implementing or changing features.
@@ -19,5 +23,4 @@ Follow this process when implementing or changing features.
 - If a change touches the database layer, confirm the schema and related code remain consistent.
 
 ## Documentation updates
-- Update the relevant documentation in docs/ if architecture, conventions, or workflows change.
 - Keep the instructions accurate and concise so future agents can follow them easily.

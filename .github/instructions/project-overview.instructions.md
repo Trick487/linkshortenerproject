@@ -1,3 +1,7 @@
+---
+description: Read this file to understand the project overview and structure.
+---
+
 # Project Overview
 
 This repository is a Next.js application built with the App Router, TypeScript, Tailwind CSS, Clerk authentication, and Drizzle ORM. The project is intentionally lightweight and should stay easy to understand.
